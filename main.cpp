@@ -12,6 +12,8 @@ void metodoBurbuja(int arr[], int tmo){
     }
 
 }
+//Complejidad es n^2 ya que ingresa a dos bucles
+// y la complejidad está en función de los bucles
 
 int main() {
     int arr[]={3,5,7,8,9};
